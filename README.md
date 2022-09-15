@@ -1,6 +1,6 @@
 # NLW
 
-This is my first project uploaded to Github, please give a feedback to improve my skills.
+This is my first project uploaded to Github, please give me a feedback to improve my skills.
 
 It is a project for the NLW Esports of Rockseat.
 
