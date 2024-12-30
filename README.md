@@ -10,7 +10,7 @@ It is a project for the Next Level Week (NLW) Esports of Rockseat.
 
 The intention for the buttom "Veja mais" is to open the full list of game i like.
 
-[🔗 Clique aqui para acessar](https://rainiryoshi.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar](https://rainirrangel.github.io/nlw-esports-explorer/)
 
 
 ## Tecnologias
